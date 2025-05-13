@@ -1,3 +1,11 @@
+Week: 2025-04-01
+Department: Sales
+Highlights:
+- Lead generation from social campaigns decreased by 12%.
+- High-performing SDR resigned, affecting pipeline activity.
+- Sales in Israeli market outperformed by 8%, driven by local campaigns.
+- Conversion from landing page remained stable at 2.5%.
+
 Week: 2025-04-08
 Department: Sales
 Highlights:
@@ -6,6 +14,10 @@ Highlights:
 - Technical glitches in CRM delayed follow-ups by 24 hours.
 - New promo campaign led to 5% higher response rate in LATAM.
 
-
-
-
+Week: 2025-04-15
+Department: Sales
+Highlights:
+- Email click-through rate dropped by 6%.
+- US region closed 20% more deals than weekly average.
+- First trial-to-paid conversion program launched.
+- Marketing-sourced leads quality improved (avg. deal size +10%).

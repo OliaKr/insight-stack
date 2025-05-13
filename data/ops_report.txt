@@ -6,5 +6,18 @@ Highlights:
 - New logistics dashboard still buggy.
 - Vendor rating system rolled out to 3 suppliers.
 
+Week: 2025-04-08
+Department: Operations
+Highlights:
+- Fuel shortage caused 2-day delivery delays in North region.
+- System auto-tagging mislabeled 7% of packages.
+- HR reported 2 resignations in logistics team.
+- Server downtime 2am–4am impacted tracking visibility.
 
-
+Week: 2025-04-15
+Department: Operations
+Highlights:
+- Delivery SLA improved from 78% to 91%.
+- Restocking algorithm adjusted to reduce overstock in SKUs 124–130.
+- 8-hour outage in east region distribution center.
+- Vendor A delayed response to quality complaint by 5 days.

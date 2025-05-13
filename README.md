@@ -1,4 +1,4 @@
-# InsightStack – Multi-Agent Strategic Analyzer
+# InsightStack – Cross-Department Report Analysis
 
 **InsightStack** is an AI-powered tool that provides strategic insights based on multi-departmental reports. This application leverages AI agents to analyze reports from different business departments, such as Sales, Support, and Operations, and provides actionable insights in a user-friendly dashboard. The application is powered by Azure OpenAI and built with the Model Context Protocol (MCP), providing a robust foundation for AI-driven analysis.
 
