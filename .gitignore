@@ -29,3 +29,5 @@ Thumbs.db
 *.db
 *.bak
 *.swp
+
+redis/
