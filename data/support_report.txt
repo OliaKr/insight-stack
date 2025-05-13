@@ -1,0 +1,31 @@
+Week: 2025-04-01
+Department: Support
+Highlights:
+- Surge in login-related tickets after latest app update.
+- Average resolution time rose from 6h to 8h.
+- Negative feedback about chatbot relevance.
+- FAQ still missing new billing policy section.
+
+Week: 2025-04-08
+Department: Support
+Highlights:
+- Reduced ticket volume by 15% after updating onboarding flows.
+- Zendesk downtime affected SLAs for 3 hours.
+- Most escalations were billing-related.
+- Internal team requested better documentation for Tier 2 handovers.
+
+Week: 2025-04-15
+Department: Support
+Highlights:
+- Satisfaction score improved from 82% to 89%.
+- High volume of questions about AI feature limitations.
+- Many customers struggled with integrations page.
+- Support shift in Israeli market needs more language resources.
+
+Week: 2025-04-22
+Department: Support
+Highlights:
+- Support team closed 94% of tickets within SLA.
+- Complaints about delayed password reset emails.
+- New team member onboarded successfully.
+- FAQ section added for April product updates.
