@@ -11,9 +11,9 @@ Provides businesses with strategic insights by analyzing reports from various de
 - 🧠 AI-powered insights from sales, support, and operations reports
 - 📦 MCP-compliant structure: external context via FastAPI endpoints
 - 🤖 Azure OpenAI-powered LLM inference
-- 🖥️ Streamlit UI to trigger analysis and display results
 - 🔁 Fixed-role orchestration across Sales, Support, Ops, and Coordinator agents
 - ⚙️ Longtime memory integration to retain previous analysis and improve insights over time
+- 🖥️ Streamlit UI to trigger analysis and display results
 
 ## Technologies Used
 

@@ -66,7 +66,7 @@ ops_agent = AssistantAgent(
 
 coordinator_agent = AssistantAgent(
     name="CoordinatorAgent",
-    description="Combines insights into 5 unique business insights.",
+    description="Combines insights into 4 unique business insights.",
     system_message=(
         "You are the CoordinatorAgent responsible for generating **exactly 4 distinct strategic insights** "
         "based only on the latest summaries from the Sales, Support, and Operations agents. "
@@ -86,6 +86,8 @@ coordinator_agent = AssistantAgent(
     model_client=model_client,
     model_context=coordinator_context,
 )
+
+# Fetch reports from MCP server
 
 sales_text = fetch_report("sales-report")
 support_text = fetch_report("support-report")
@@ -163,3 +165,9 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+# Export for UI integration
+
+
+def prepare_team_and_task():
+    return team, task
