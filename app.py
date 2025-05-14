@@ -6,7 +6,7 @@ import pandas as pd
 from pathlib import Path
 from agent_chat_orchestration import prepare_team_and_task, sales_memory, support_memory, ops_memory, sales_text, support_text, ops_text
 
-# הגדרת Streamlit page config
+
 st.set_page_config(
     page_title="InsightStack – Cross-Department Report Analysis", layout="centered")
 
@@ -31,15 +31,12 @@ with col3:
 
 st.divider()
 
-# שימוש ב-Streamlit Cache לטעינת דוחות
-
 
 @st.cache_data
 def load_reports():
     return sales_text, support_text, ops_text
 
 
-# אם הדוחות כבר נטענים ממקורות אחרים, נשמור אותם כאן ב-cached memory
 sales_text, support_text, ops_text = load_reports()
 
 if st.session_state.view == "run":
@@ -92,7 +89,6 @@ else:
         st.warning(f"🔍 Image not found at: {image_path}")
     st.markdown("*Powered by Azure OpenAI + MCP + RAG + Autonomous Agents*")
 
-# הצגת הדוחות הגולמיים רק אם נדרש
 with st.expander("🔍 View Raw Department Reports"):
     st.code(sales_text, language="markdown")
     st.code(support_text, language="markdown")

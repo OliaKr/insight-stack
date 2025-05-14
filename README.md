@@ -10,11 +10,11 @@ Provides businesses with strategic insights by analyzing reports from various de
 
 - 🧠 AI-powered insights from sales, support, and operations reports
 
-      Provides strategic insights by analyzing reports from multiple business departments
+  Provides strategic insights by analyzing reports from multiple business departments
 
 - 📦 MCP-compliant structure: external context via FastAPI endpoints
 
-      Ensures seamless integration with external systems using FastAPI, compliant with the Model Context Protocol (MCP).
+  Ensures seamless integration with external systems using FastAPI, compliant with the Model Context Protocol (MCP).
 
 - 🤖 Azure OpenAI-powered LLM inference
 
